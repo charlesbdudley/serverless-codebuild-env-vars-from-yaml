@@ -1,0 +1,23 @@
+{
+  "name": "serverless-codebuild-env-vars-from-yaml",
+  "version": "0.0.1",
+  "description": "Serverless plugin to configure AWS CodeBuild with environment variables stored in a .yml file",
+  "main": "index.js",
+  "author": "Charles Dudley <github@email.charlesdudley.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlesbdudley/serverless-codebuild-env-vars-from-yaml.git"
+  },
+  "keywords": [
+    "serverless",
+    "1.0",
+    "aws",
+    "codebuild",
+    "variables"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlesbdudley/serverless-codebuild-env-vars-from-yaml/issues"
+  },
+  "homepage": "https://github.com/charlesbdudley/serverless-codebuild-env-vars-from-yaml#readme"
+}
